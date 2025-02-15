@@ -6,11 +6,10 @@
 <li> I have delivered impactful solutions across industries, including financial services, telecom, and logistics, building predictive models, time-series forecasts, and NLP-driven insights. I am skilled in Python, BigQuery, Looker, and advanced ML libraries like TensorFlow and PyTorch.</li>
 <li> With expertise in stakeholder management and project leadership, I translate complex data into actionable insights through clear, compelling visualizations.</li>
 <li> Outside of work, I write articles on Medium about machine learning and share insights through my series The Math Board. I am also passionate about running, workouts, food, and nutrition—activities that inspire my creativity and keep me energized.</li>
- <li> Connect with me for collaborating on data science projects to solve challenging problems and explore new technologies.</li>
  </ul>
 
+Connect with me for collaborating on data science projects to solve challenging problems and explore new technologies. Let’s connect to explore how I can help drive your data initiatives!
 
-Let’s connect to explore how I can help drive your data initiatives!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti-sharma-dsc) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jyoti.sharma.dsc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyoti.sharma.dsc@gmail.com) 
 
