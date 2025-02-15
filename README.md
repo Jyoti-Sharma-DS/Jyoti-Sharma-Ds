@@ -5,7 +5,8 @@
  <li> I am a Data Science professional with 8+ years of experience driving business outcomes through data analytics, machine learning, and automation. I hold a Master's in Applied Data Analytics from Boston University, specializing in machine learning, big data analytics, and database management.</li>
 <li> I have delivered impactful solutions across industries, including financial services, telecom, and logistics, building predictive models, time-series forecasts, and NLP-driven insights. I am skilled in Python, BigQuery, Looker, and advanced ML libraries like TensorFlow and PyTorch.</li>
 <li> With expertise in stakeholder management and project leadership, I translate complex data into actionable insights through clear, compelling visualizations.</li>
-<li> Outside of work, I write articles on Medium about machine learning and share insights through my series The Math Board. I am also passionate about running, workouts, food, and nutrition—activities that inspire my creativity and keep me energized.<br><br> - Connect with me to explore how my experience can drive your data-driven initiatives.</li>
+<li> Outside of work, I write articles on Medium about machine learning and share insights through my series The Math Board. I am also passionate about running, workouts, food, and nutrition—activities that inspire my creativity and keep me energized.</li>
+ <li> ![image](https://github.com/user-attachments/assets/311084c0-016e-49a7-b9fc-27bf3dca3daf) Connect with me for collaborating on data science projects to solve challenging problems and explore new technologies.</li>
  </ul>
 
 
